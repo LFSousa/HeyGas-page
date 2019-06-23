@@ -377,6 +377,18 @@ button:focus {
   background: #1DA1F2;
 }
 
+.instagram a {
+  color: #D02873;
+}
+
+.center {
+  text-align: center;
+}
+
+.instagram a:hover {
+  background: #D02873;
+}
+
 .google-plus a {
   color: #DD4D42;
 }
@@ -1272,6 +1284,7 @@ button:focus {
 .single-team .team-inner {
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  text-align: center;
 }
 
 .single-team .team-details {
