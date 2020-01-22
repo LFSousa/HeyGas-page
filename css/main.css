@@ -665,7 +665,7 @@ button:focus {
 }
 
 .hero-area .contents .btn {
-  margin-top: 40px;
+  /* margin-top: 40px; */
   margin-right: 20px;
   text-transform: uppercase;
 }
@@ -724,7 +724,7 @@ button:focus {
 }
 
 .hero-area-2 .contents .btn {
-  margin-top: 40px;
+  /* margin-top: 40px; */
   margin-right: 20px;
   text-transform: uppercase;
 }
